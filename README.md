@@ -29,10 +29,6 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 Você pode conferir o design da interface no [link do Figma](https://www.figma.com/community/file/979892246159607749) para ter uma visão detalhada de como o projeto se parece.
 
-## Preview
-
-![sistok](https://github.com/f5-nascimento/Sistok/assets/28812188/0eeb7054-37d7-40bd-abb3-002fbfeb3d88)
-
 
 ## Deploy
 
